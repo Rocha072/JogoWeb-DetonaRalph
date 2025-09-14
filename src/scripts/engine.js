@@ -8,7 +8,7 @@ const state = {
     },
     values:{
         timerId:null,
-        intervaloVelocidadeJogo: 250,
+        intervaloVelocidadeJogo: 500,
         posicao: 0,
         result: 0,
         tempo: 60,
